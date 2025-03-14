@@ -2,7 +2,7 @@
 ##
 <p>Bem-vindos ao meu perfil no GitHub 😊</p>
 
-- ✏️estudando desenvolvimento front-end
+- ✏️estudando desenvolvimento web
 - 👩‍💻em busca da minha primeira oportunidade na área de T.I 
 
 ##
